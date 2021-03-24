@@ -1,12 +1,10 @@
 <h1 align="center">Hola 👋, yo soy Jorge Correa</h1>
 <h3 align="center">Desarrollador web, Desarrollador Front End</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yosoyjacko&label=Profile%20views&color=0e75b6&style=flat" alt="yosoyjacko" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yosoyjacko" alt="yosoyjacko" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yosoyjacko" alt="yosoyjacko" /></a> </p>
 
 - 📫 Para poder Contactarme **jorge_a.correa@hotmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/jorge-correa-44881a157" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin.com/in/jorge-correa-44881a157" height="30" width="40" /></a>
@@ -20,3 +18,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yosoyjacko&show_icons=true&locale=en" alt="yosoyjacko" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yosoyjacko&" alt="yosoyjacko" /></p>
+
+<p align="rigth"> <img src="https://komarev.com/ghpvc/?username=yosoyjacko&label=Profile%20views&color=0e75b6&style=flat" alt="yosoyjacko" /> </p>
